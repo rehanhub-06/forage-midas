@@ -1,0 +1,7 @@
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] ------------------------< com.jpmc:midas-core >-------------------------
+[INFO] Building midas-core 1.0.0
+[INFO] --------------------------------[ jar ]---------------------------------
+Terminate batch job (Y/N)? Terminate batch job (Y/N)? 
+^C
